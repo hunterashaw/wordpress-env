@@ -1,6 +1,6 @@
 # Wordpress Development Environment
 
-This can be used as a starting place for local Wordpress theme/plugin development.
+A starting place for local Wordpress theme/plugin development.
 
 ## Features
 

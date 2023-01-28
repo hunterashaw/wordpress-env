@@ -32,4 +32,7 @@ docker-compose up
 ## To change port:
 
 1. Edit `docker-compose.yml` file to replace all occurances of default port `3000` with desired port.
-2. Re-build container by running `docker-compose build --no-cache`.
+2. Re-build container by running:
+```
+docker-compose build --no-cache
+```

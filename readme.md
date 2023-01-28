@@ -15,11 +15,18 @@ A starting place for local Wordpress theme/plugin development.
 
 ## Setup
 
-1. Duplicate `example.env` as `.env`
+1. Clone the codebase (excluding the repository):
+```
+git clone https://github.com/hunterashaw/wordpress-env.git . && rm -rf .git
+```
+2. Duplicate `example.env` as `.env`
 
 ## Startup
 
-1. Run `docker-compose up`
+1. Run:
+```
+docker-compose up
+```
 2. Go to http://localhost:3000
 
 ## To change port:
